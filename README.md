@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=alirafatartist&style=for-the-badge">
+<img align="right" src="https://komarev.com/ghpvc/?username=alirafatartist&abbreviated=true">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
