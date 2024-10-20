@@ -14,7 +14,7 @@
 <p align="center">
   Hi, I'm Ali Rafat, Front-end Developer from Egypt
   <br>
-  🔬 I'm currently Student at Faculty Of Engineering at Monufia University, Production Engineering & Mechanical Design Department
+  🔬 I'm currently Student at Faculty Of Engineering at Monufia University, Production Engineering & Mechanical Design Department 🦾
   <br>
   💻 I love writing code and learn anythings about it
   <br>
