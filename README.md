@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ᗩᒪᓰ_....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</h1> 
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/alirafatartist/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
